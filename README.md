@@ -1,4 +1,4 @@
-# LeaveIntense - javascript library
+# LeaveIntent - javascript library
 Javascript library to trigger when user is about to leave window.
 
 
