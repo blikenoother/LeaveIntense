@@ -1,4 +1,4 @@
-# LeaveIntent - javascript library
+# leaveIntent - javascript library
 Show some convincing message to visitor who is leaving your site!
 
 ## Usage
