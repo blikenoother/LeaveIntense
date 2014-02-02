@@ -1,4 +1,4 @@
-document.LeaveIntent = function (options) {
+document.leaveIntent = function (options) {
 
     Helper = {
 

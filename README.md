@@ -12,7 +12,7 @@ Now, bind document with LeaveIntent property and define beforeLeave function:
 
 ```html
 <script type="text/javascript">
-	document.LeaveIntent({
+	document.leaveIntent({
 	    height: 10,
 	    beforeLeave: function (result) {
 	        alert("Don't go! We have some surprice for you.");
