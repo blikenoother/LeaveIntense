@@ -21,7 +21,7 @@ Now, bind document with LeaveIntent property and define beforeLeave function:
 </script>
 ```
 
-When user tries to leave window then `beforeLeave` function will be executed. You can define top portion to assume when user is about to move from window with `height` option.
+ `beforeLeave` function will be executed when user is leaving window. You can define top portion to assume when user is about to move from window with `height` option.
 
 + This is not window unload event, so instead of confirmation box you can show anything convincing for stay.
 + This solution wont work in case of user is closing window with keyboard shortcuts.
